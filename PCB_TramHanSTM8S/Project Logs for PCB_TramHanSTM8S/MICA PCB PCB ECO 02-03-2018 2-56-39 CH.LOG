@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=Q2 Old Footprint=TO220H1 New Footprint=TO252-123
+Added Member To Class: ClassName=TramHanSTM8 Member=Component C5 103
+Added Member To Class: ClassName=TramHanSTM8 Member=Component C7 103
+Added Member To Class: ClassName=TramHanSTM8 Member=Component C8 103
+Added Member To Class: ClassName=TramHanSTM8 Member=Component DIO1 Diode SMD
+Added Member To Class: ClassName=TramHanSTM8 Member=Component Q2 IRF840

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=RIGHT Pin=U1-30
+Removed Pin From Net: NetName=LEFT Pin=U1-31
+Added Pin To Net: NetName=LEFT Pin=U1-30
+Added Pin To Net: NetName=RIGHT Pin=U1-31
+Added Room: Name=TramHanSTM8

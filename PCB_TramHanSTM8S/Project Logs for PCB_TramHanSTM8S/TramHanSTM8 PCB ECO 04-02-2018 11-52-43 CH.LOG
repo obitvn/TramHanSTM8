@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetDS1_4 Pin=R10-6
+Removed Pin From Net: NetName=NetDS1_3 Pin=R11-5
+Removed Pin From Net: NetName=NetDS1_5 Pin=R11-6
+Change Component Footprint: Designator=SP1 Old Footprint=SPEAKER New Footprint=SPK
+Added Pin To Net: NetName=NetDS1_3 Pin=R10-6
+Added Pin To Net: NetName=NetDS1_4 Pin=R10-7
+Added Pin To Net: NetName=NetDS1_5 Pin=R10-8
+Change Net Name : Old Net Name=A1 New Net Name=NetDS1_11
+Change Net Name : Old Net Name=A2 New Net Name=NetDS1_8
+Change Net Name : Old Net Name=A3 New Net Name=NetDS1_7
+Change Net Name : Old Net Name=a New Net Name=NetR10_1
+Change Net Name : Old Net Name=b New Net Name=NetR10_2
+Change Net Name : Old Net Name=c New Net Name=NetR10_3
+Change Net Name : Old Net Name=d New Net Name=NetR10_4
+Change Net Name : Old Net Name=dp New Net Name=NetR11_4
+Change Net Name : Old Net Name=e New Net Name=NetR11_1
+Change Net Name : Old Net Name=f New Net Name=NetR11_2
+Change Net Name : Old Net Name=g New Net Name=NetR11_3
+Added Room: Name=TramHanSTM8

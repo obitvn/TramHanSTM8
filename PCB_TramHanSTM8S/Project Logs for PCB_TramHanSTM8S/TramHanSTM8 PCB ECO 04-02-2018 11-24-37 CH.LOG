@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=24V Pin=JDC1-1
+Removed Pin From Net: NetName=GND Pin=JDC1-2
+Removed Pin From Net: NetName=24V Pin=JDC1-3
+Removed Member From Class: ClassName=TramHanSTM8 Member=JDC1
+Change Component Designator: OldDesignator=C11 NewDesignator=C14
+Change Component Designator: OldDesignator=C12 NewDesignator=C15
+Change Component Designator: OldDesignator=C13 NewDesignator=C16
+Added Component: Designator=P1(CON 2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=24V Pin=P1-2
+Change Net Name : Old Net Name=NetC11_1 New Net Name=NetC14_1
+Added Member To Class: ClassName=TramHanSTM8 Member=Component C14 103
+Added Member To Class: ClassName=TramHanSTM8 Member=Component C15 103
+Added Member To Class: ClassName=TramHanSTM8 Member=Component C16 103
+Added Member To Class: ClassName=TramHanSTM8 Member=Component P1 HEADER 2
+Added Room: Name=TramHanSTM8

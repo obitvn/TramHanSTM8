@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=ENC1-GND1
+Removed Pin From Net: NetName=GND Pin=ENC1-GND2
+Removed Pin From Net: NetName=NetQ1_1 Pin=R15-2
+Removed Pin From Net: NetName=3V3 Pin=U1-4
+Added Pin To Net: NetName=NetQ2_1 Pin=R15-2
+Added Room: Name=TramHanSTM8

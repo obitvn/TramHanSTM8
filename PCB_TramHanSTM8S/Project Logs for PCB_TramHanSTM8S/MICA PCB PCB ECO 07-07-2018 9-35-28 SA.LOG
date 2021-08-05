@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=GND Pin=ENC1-GND1
+Removed Pin From Net: NetName=GND Pin=ENC1-GND2
+Change Component Comment : Designator=R8 Old Comment=1.5k New Comment=1k
+Change Component Comment : Designator=R10 Old Comment=1k New Comment=47k
+Change Component Comment : Designator=R9 Old Comment=10k New Comment=0R
+Change Component Comment : Designator=VR1 Old Comment=10K New Comment=1K
+Change Component Comment : Designator= Old Comment=10k New Comment=330k
+Change Component Designator: OldDesignator= NewDesignator=C13
+Change Component Designator: OldDesignator= NewDesignator=R11
+Change Component Designator: OldDesignator=C14 NewDesignator=C15
+Change Component Designator: OldDesignator=C15 NewDesignator=C14
+Change Component Designator: OldDesignator=C15 NewDesignator=C16
+Change Component Designator: OldDesignator=C16 NewDesignator=C17
+Change Component Designator: OldDesignator=C17 NewDesignator=C18
+Added Component: Designator=C19(SM-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=DIO2(DIO-SMD-106)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=NetC5_2 Pin=DIO2-1
+Added Pin To Net: NetName=VCC Pin=DIO2-2
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=VCC Pin=VR1-3
+Change Net Name : Old Net Name=NetC15_1 New Net Name=NetC16_1
+Added Pin To Net: NetName=READ_CALIB Pin=C19-1
+Added Pin To Net: NetName=READ_CALIB Pin=U1-14
+Added Pin To Net: NetName=READ_CALIB Pin=VR1-2
+Added Net: Name=READ_CALIB
+Added Member To Class: ClassName=TramHanSTM8 Member=Component C13 103
+Added Member To Class: ClassName=TramHanSTM8 Member=Component C18 103
+Added Member To Class: ClassName=TramHanSTM8 Member=Component C19 103
+Added Member To Class: ClassName=TramHanSTM8 Member=Component DIO2 Diode SMD
+Added Member To Class: ClassName=TramHanSTM8 Member=Component R11 330k
+Added Room: Name=TramHanSTM8

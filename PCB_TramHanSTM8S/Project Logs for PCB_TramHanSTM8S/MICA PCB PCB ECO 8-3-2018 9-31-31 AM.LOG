@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=ENC1-GND1
+Removed Pin From Net: NetName=GND Pin=ENC1-GND2
+Removed Pin From Net: NetName=3V3 Pin=U1-4
+Added Component: Designator=DIO2(DIO-SMD-106)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code - JEDEC"; Value = "DO-214-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1N5007"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C19-1
+Added Pin To Net: NetName=3V3 Pin=C20-1
+Added Pin To Net: NetName=NetC7_2 Pin=DIO2-1
+Added Pin To Net: NetName=3V3 Pin=DIO2-2
+Added Pin To Net: NetName=3V3 Pin=U2-6
+Added Member To Class: ClassName=TramHanSTM8 Member=Component C5 103
+Added Member To Class: ClassName=TramHanSTM8 Member=Component C6 CAP
+Added Member To Class: ClassName=TramHanSTM8 Member=Component C11 JP4
+Added Member To Class: ClassName=TramHanSTM8 Member=Component DIO2 Diode SMD
+Added Member To Class: ClassName=TramHanSTM8 Member=Component R10 24k
+Added Member To Class: ClassName=TramHanSTM8 Member=Component R12 RP330
+Added Member To Class: ClassName=TramHanSTM8 Member=Component U1 AMS1117
+Added Room: Name=TramHanSTM8

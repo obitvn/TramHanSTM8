@@ -1,0 +1,10 @@
+Added Component: Designator=C6(C 1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "*uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Member To Class: ClassName=TramHanSTM8 Member=Component C5 103
+Added Member To Class: ClassName=TramHanSTM8 Member=Component C6 CAP
+Added Member To Class: ClassName=TramHanSTM8 Member=Component C11 JP4
+Added Member To Class: ClassName=TramHanSTM8 Member=Component R10 24k
+Added Member To Class: ClassName=TramHanSTM8 Member=Component U1 AMS1117
